@@ -4,6 +4,7 @@ flutter 添加水印
 
 ## Usage
 
+![image](watermark.gif)
 ```dart
 ZLWaterView(
     child: SizedBox(
