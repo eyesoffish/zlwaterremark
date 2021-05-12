@@ -1,7 +1,7 @@
 name: zlwatermark
-description: A new Flutter package project.
+description: flutterWidget增加水印.
 version: 0.0.1
-homepage:
+homepage: https://github.com/eyesoffish/zlwaterremark/tree/master/zlwatermark
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
