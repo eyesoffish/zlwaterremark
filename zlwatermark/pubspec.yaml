@@ -1,6 +1,6 @@
 name: zlwatermark
 description: flutterWidget增加水印.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/eyesoffish/zlwaterremark/tree/master/zlwatermark
 
 environment:
