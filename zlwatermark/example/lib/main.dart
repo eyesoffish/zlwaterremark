@@ -56,16 +56,11 @@ class _WaterPageState extends State<WaterPage> {
       ),
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.center,
+        mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Expanded(
-            child: ZLWaterView(
-              child: SizedBox(
-                height: MediaQuery.of(context).size.height,
-                width: MediaQuery.of(context).size.width,
-                child: Image.asset("assets/gallery3.jpg", fit: BoxFit.cover,)
-              ),
-              children: list,
-            ),
+          ZLWaterView(
+            child: Image.asset("assets/gallery3.jpg", fit: BoxFit.cover,),
+            children: list,
           )
         ],
       ),
