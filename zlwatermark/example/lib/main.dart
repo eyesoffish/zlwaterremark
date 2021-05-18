@@ -59,6 +59,7 @@ class _WaterPageState extends State<WaterPage> {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           ZLWaterView(
+            size: Size(400, 700),
             child: Image.asset("assets/gallery3.jpg", fit: BoxFit.cover,),
             children: list,
           )

@@ -134,10 +134,7 @@ class _WaterWidgetState extends State<_WaterWidget> {
           },
           onScaleEnd: (scaleEndDetail) {
           },
-          child: Container(
-            padding: const EdgeInsets.all(10.0),
-            child: widget.child,
-          ),
+          child: widget.child,
         ),
       ),
     );
