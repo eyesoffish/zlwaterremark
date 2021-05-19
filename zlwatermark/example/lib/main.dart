@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:zlwatermark/zlwatermark.dart';
+import 'package:watermark/zlwatermark.dart';
 
 void main() {
   runApp(MyApp());
