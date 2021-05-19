@@ -1,3 +1,6 @@
+## [0.0.4] - 2021-05-19.
+
+* update plugin name.
 ## [0.0.3] - 2021-05-18.
 
 * update boundary judgment.

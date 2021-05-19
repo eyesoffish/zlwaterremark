@@ -149,7 +149,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.0"
-  watermark:
+  zlwatermark:
     dependency: "direct main"
     description:
       path: ".."
